@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="46" stroke="#9A723E" stroke-width="2.5" />
+  <circle cx="50" cy="50" r="38" stroke="#4A3828" stroke-width="1" stroke-opacity="0.3" />
+  <line x1="50" y1="4" x2="50" y2="96" stroke="#9A723E" stroke-width="1.5" />
+  <ellipse cx="50" cy="50" rx="24" ry="46" stroke="#9A723E" stroke-width="1.5" stroke-dasharray="2 2" />
+  <text x="50" y="55" font-family="'Cormorant Garamond', serif" font-size="22" font-weight="600" fill="#4A3828" text-anchor="middle" letter-spacing="2">O</text>
+</svg>
