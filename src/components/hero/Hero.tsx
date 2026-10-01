@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from 'react';
-import { ArrowDown, Sparkles } from 'lucide-react';
+import { ArrowDown } from 'lucide-react';
 import { sound } from '../../utils/sound';
 
 const HeroMonogram3D = lazy(() =>
